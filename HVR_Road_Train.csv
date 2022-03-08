@@ -1,0 +1,876 @@
+﻿OBJECTID,HVR_RD_TRAIN_REF1,HVR_RD_TRAIN_REF1_COMM,RD_MANAGER,SUBJECT_PREF_RDNAME,LRS_RMACLASS,LOCALITIES,Shape_Length
+1,Approved,No Conditions Apply,,,Unknown,,341.494722198978
+2,Approved,No Conditions Apply,DELWP,BROWNPORT ROAD,Municipal Road,CARWARP to IRAAK,1322.58316141152
+3,Approved,No Conditions Apply,DELWP,LAKE PARK ROAD,Municipal Road,CULLULLERAINE,721.042802713944
+4,Approved,No Conditions Apply,DELWP,RUDDS ROAD,Municipal Road,IRAAK,2213.49484767351
+5,Approved,No Conditions Apply,DELWP,WERRIMULL NORTH ROAD,Municipal Road,CULLULLERAINE to WERRIMULL,1328.70712022384
+6,Approved,No Conditions Apply,Department of Transport - Victoria,BENETOOK AVENUE ,Other Arterial Road,MILDURA,4943.4864310708
+7,Approved,No Conditions Apply,Department of Transport - Victoria,CALDER HIGHWAY ,Arterial Highway,CARWARP to OUYEN,97908.7012593278
+8,Approved,No Conditions Apply,Department of Transport - Victoria,CALDER HIGHWAY ,Arterial Highway,RED CLIFFS,2899.89667892005
+9,Approved,No Conditions Apply,Department of Transport - Victoria,CALDER HIGHWAY ,Arterial Highway,RED CLIFFS to CARWARP,2561.27172888607
+10,Approved,No Conditions Apply,Department of Transport - Victoria,CALDER HIGHWAY ,Arterial Highway,YELTA,398.240923199015
+11,Approved,No Conditions Apply,Department of Transport - Victoria,CURLEWIS STREET ,Arterial Highway,SWAN HILL,2741.50532072174
+12,Approved,No Conditions Apply,Department of Transport - Victoria,FARRELL STREET ,Arterial Highway,OUYEN,180.401776967299
+13,Approved,No Conditions Apply,Department of Transport - Victoria,FIFTEENTH STREET ,Arterial Highway,IRYMPLE,1550.86783988772
+14,Approved,No Conditions Apply,Department of Transport - Victoria,FIFTEENTH STREET ,Arterial Highway,IRYMPLE to RED CLIFFS,11925.3636336542
+15,Approved,No Conditions Apply,Department of Transport - Victoria,FIFTEENTH STREET ,Arterial Highway,MILDURA to IRYMPLE,9373.01899416651
+16,Approved,No Conditions Apply,Department of Transport - Victoria,GREGORY STREET ,Arterial Highway,OUYEN,2616.88807268179
+17,Approved,No Conditions Apply,Department of Transport - Victoria,HATTAH-ROBINVALE ROAD ,Other Arterial Road,BANNERTON,7208.59539564798
+18,Approved,No Conditions Apply,Department of Transport - Victoria,HATTAH-ROBINVALE ROAD ,Other Arterial Road,HATTAH to BANNERTON,59380.6692247281
+19,Approved,No Conditions Apply,Department of Transport - Victoria,HUGHES STREET ,Arterial Highway,OUYEN to MANANGATANG,67394.3751882954
+20,Approved,No Conditions Apply,Department of Transport - Victoria,KULKYNE WAY ,Other Arterial Road,RED CLIFFS,3388.49110289682
+21,Approved,No Conditions Apply,Department of Transport - Victoria,KULKYNE WAY ,Other Arterial Road,RED CLIFFS to COLIGNAN,39013.8633171288
+22,Approved,No Conditions Apply,Department of Transport - Victoria,MAIN AVENUE N,Arterial Highway,MERBEIN,1059.1509472044
+23,Approved,No Conditions Apply,Department of Transport - Victoria,MAIN AVENUE S,Arterial Highway,MERBEIN to MILDURA,10737.5995155989
+24,Approved,No Conditions Apply,Department of Transport - Victoria,MALLEE HIGHWAY ,Arterial Highway,BOINKA,5740.82556917068
+25,Approved,No Conditions Apply,Department of Transport - Victoria,MALLEE HIGHWAY ,Arterial Highway,BOINKA to MURRAYVILLE,43841.9420702157
+26,Approved,No Conditions Apply,Department of Transport - Victoria,MALLEE HIGHWAY ,Arterial Highway,MANANGATANG,4252.39157406696
+27,Approved,No Conditions Apply,Department of Transport - Victoria,MALLEE HIGHWAY ,Arterial Highway,MURRAYVILLE,8606.09864729257
+28,Approved,No Conditions Apply,Department of Transport - Victoria,MALLEE HIGHWAY ,Arterial Highway,MURRAYVILLE to PANITYA,17782.8984730548
+29,Approved,No Conditions Apply,Department of Transport - Victoria,MALLEE HIGHWAY ,Arterial Highway,OUYEN,242.970532261721
+30,Approved,No Conditions Apply,Department of Transport - Victoria,MALLEE HIGHWAY ,Arterial Highway,OUYEN to BOINKA,76615.4177104629
+31,Approved,No Conditions Apply,Department of Transport - Victoria,MALLEE HIGHWAY ,Arterial Highway,PANITYA,4179.3550039214
+32,Approved,No Conditions Apply,Department of Transport - Victoria,MALLEE HIGHWAY ,Arterial Highway,PIANGIL to MANANGATANG,46354.5711669161
+33,Approved,No Conditions Apply,Department of Transport - Victoria,MCCALLUM STREET ,Other Arterial Road,SWAN HILL,296.598863537143
+34,Approved,No Conditions Apply,Department of Transport - Victoria,MILLEWA ROAD ,Other Arterial Road,MERINGUR to KOORLONG,82388.2233150192
+35,Approved,No Conditions Apply,Department of Transport - Victoria,MILLEWA ROAD ,Other Arterial Road,RED CLIFFS to KOORLONG,663.320948267457
+36,Approved,No Conditions Apply,Department of Transport - Victoria,MURRAY VALLEY HIGHWAY ,Arterial Highway,BANNERTON to BOUNDARY BEND,39355.6067961113
+37,Approved,No Conditions Apply,Department of Transport - Victoria,MURRAY VALLEY HIGHWAY ,Arterial Highway,BANNERTON to ROBINVALE,22958.1958275651
+38,Approved,No Conditions Apply,Department of Transport - Victoria,MURRAY VALLEY HIGHWAY ,Arterial Highway,BOUNDARY BEND to NARRUNG,10846.0388888073
+39,Approved,No Conditions Apply,Department of Transport - Victoria,MURRAY VALLEY HIGHWAY ,Arterial Highway,NARRUNG to KENLEY,4232.11224443267
+40,Approved,No Conditions Apply,Department of Transport - Victoria,MURRAY VALLEY HIGHWAY ,Arterial Highway,SWAN HILL,335.416345974152
+41,Approved,No Conditions Apply,Department of Transport - Victoria,MURRAY VALLEY HIGHWAY ,Arterial Highway,SWAN HILL to KENLEY,85751.397638258
+42,Approved,No Conditions Apply,Department of Transport - Victoria,ROBINVALE-SEA LAKE ROAD ,Other Arterial Road,BANNERTON to ROBINVALE IRRIGATION DISTRICT SECTION B,14212.35200608
+43,Approved,No Conditions Apply,Department of Transport - Victoria,SEVENTH STREET ,Arterial Highway,MILDURA,629.811320301065
+44,Approved,No Conditions Apply,Department of Transport - Victoria,SEVENTH STREET ,Other Arterial Road,MILDURA,2946.20638807751
+45,Approved,No Conditions Apply,Department of Transport - Victoria,STURT HIGHWAY ,Arterial Highway,MILDURA,1021.74106245086
+46,Approved,No Conditions Apply,Department of Transport - Victoria,STURT HIGHWAY ,Arterial Highway,YAMBA (SA) to MILDURA,144329.700127265
+47,Approved,No Conditions Apply,Department of Transport - Victoria,SWAN HILL-MOULAMEIN ROAD ,Other Arterial Road,SWAN HILL,53.3982348233586
+48,Approved,No Conditions Apply,Department of Transport - Victoria,WENTWORTH ROAD ,Arterial Highway,YELTA to MERBEIN,12740.8179827959
+49,Approved,No Conditions Apply,MANSFIELD,REARDON LANE,Municipal Road,MANSFIELD,103.514165228681
+50,Approved,No Conditions Apply,MILDURA,ADAMS STREET,Municipal Road,MILDURA,461.649243045479
+51,Approved,No Conditions Apply,MILDURA,BARING ROAD,Municipal Road,PATCHEWOLLOCK,10946.2177766522
+52,Approved,No Conditions Apply,MILDURA,BEASLEY DRIVE,Municipal Road,KOORLONG,1677.84525918295
+53,Approved,No Conditions Apply,MILDURA,BENETOOK AVENUE ,Municipal Road,IRYMPLE to KOORLONG,17113.0143326223
+54,Approved,No Conditions Apply,MILDURA,BENETOOK AVENUE ,Municipal Road,IRYMPLE to MILDURA,4009.98266700108
+55,Approved,No Conditions Apply,MILDURA,BETHUNE ROAD ,Municipal Road,OUYEN,1577.75566809602
+56,Approved,No Conditions Apply,MILDURA,BOINKA SOUTH ROAD ,Municipal Road,BOINKA,2732.5460248997
+57,Approved,No Conditions Apply,MILDURA,BOONOONAR ROAD,Municipal Road,CARWARP to COLIGNAN,15571.1781067297
+58,Approved,No Conditions Apply,MILDURA,BOONOONAR ROAD,Municipal Road,COLIGNAN,3407.1629947522
+59,Approved,No Conditions Apply,MILDURA,BORONIA DRIVE ,Municipal Road,CULLULLERAINE,328.538594475389
+60,Approved,No Conditions Apply,MILDURA,BRITT STREET ,Municipal Road,OUYEN,583.077684100924
+61,Approved,No Conditions Apply,MILDURA,BROWN ROAD,Municipal Road,COLIGNAN,4453.2773162552
+62,Approved,No Conditions Apply,MILDURA,BROWNPORT ROAD,Municipal Road,CARWARP to IRAAK,14777.7989874144
+63,Approved,No Conditions Apply,MILDURA,BUSHLAND RISE,Municipal Road,KOORLONG,659.080196956332
+64,Approved,No Conditions Apply,MILDURA,CARWARP ROAD ,Municipal Road,CARWARP,5276.75213159685
+65,Approved,No Conditions Apply,MILDURA,CASTLE CROSSING ROAD ,Municipal Road,COLIGNAN,2143.04968915775
+66,Approved,No Conditions Apply,MILDURA,CEMETERY ROAD,Municipal Road,MURRAYVILLE,184.105305381225
+67,Approved,No Conditions Apply,MILDURA,CEMETERY ROAD ,Municipal Road,MURRAYVILLE,1269.57730894472
+68,Approved,No Conditions Apply,MILDURA,CHINKAPOOK-MITTYACK ROAD,Municipal Road,MITTYACK,4771.2666038713
+69,Approved,No Conditions Apply,MILDURA,CLAY AVENUE,Municipal Road,OUYEN,217.441815663598
+70,Approved,No Conditions Apply,MILDURA,COOPER STREET,Municipal Road,OUYEN,608.753123407642
+71,Approved,No Conditions Apply,MILDURA,COUSTLEY AVENUE,Municipal Road,OUYEN,367.275293103773
+72,Approved,No Conditions Apply,MILDURA,COWANGIE SOUTH ROAD ,Municipal Road,COWANGIE,2189.59207600168
+73,Approved,No Conditions Apply,MILDURA,DAYMAN STREET,Municipal Road,COWANGIE,2054.66406971257
+74,Approved,No Conditions Apply,MILDURA,DINGO TANK ROAD ,Municipal Road,OUYEN,561.888840502587
+75,Approved,No Conditions Apply,MILDURA,DONNELLY ROAD ,Municipal Road,WALPEUP,611.446300699509
+76,Approved,No Conditions Apply,MILDURA,DUNKLEY ROAD ,Municipal Road,OUYEN,2405.94375932393
+77,Approved,No Conditions Apply,MILDURA,EDEY ROAD,Municipal Road,RED CLIFFS,3688.40298669722
+78,Approved,No Conditions Apply,MILDURA,EMMETT STREET,Municipal Road,OUYEN,857.889286347436
+79,Approved,No Conditions Apply,MILDURA,FASHAM STREET ,Municipal Road,UNDERBOOL,730.549546281867
+80,Approved,No Conditions Apply,MILDURA,FLETCHER ROAD,Municipal Road,WERRIMULL,215.568289614995
+81,Approved,No Conditions Apply,MILDURA,FRANCIS STREET ,Municipal Road,MURRAYVILLE,707.093534543647
+82,Approved,No Conditions Apply,MILDURA,FULLER STREET ,Municipal Road,OUYEN,698.811694329152
+83,Approved,No Conditions Apply,MILDURA,GLEN STREET,Municipal Road,WALPEUP,799.196738392817
+84,Approved,No Conditions Apply,MILDURA,GNARR ROAD,Municipal Road,UNDERBOOL,317.551299999631
+85,Approved,No Conditions Apply,MILDURA,GNARR ROAD ,Municipal Road,UNDERBOOL,4923.64606096546
+86,Approved,No Conditions Apply,MILDURA,GRAY STREET,Municipal Road,MURRAYVILLE,1307.56905844484
+87,Approved,No Conditions Apply,MILDURA,GREENTEK COURT ,Municipal Road,KOORLONG,1577.76738359429
+88,Approved,No Conditions Apply,MILDURA,GREGORY STREET ,Municipal Road,OUYEN,597.393427214637
+89,Approved,No Conditions Apply,MILDURA,HANCOCK STREET,Municipal Road,OUYEN,226.448240135544
+90,Approved,No Conditions Apply,MILDURA,HAROLD STREET,Municipal Road,OUYEN,466.204150170164
+91,Approved,No Conditions Apply,MILDURA,HARRIS LANEWAY ,Municipal Road,OUYEN,215.903200443998
+92,Approved,No Conditions Apply,MILDURA,HENDERSON STREET,Municipal Road,OUYEN,466.038791483216
+93,Approved,No Conditions Apply,MILDURA,HUNT STREET,Municipal Road,OUYEN,497.348269422722
+94,Approved,No Conditions Apply,MILDURA,IRAAK LAKE ROAD ,Municipal Road,IRAAK,3331.68606576914
+95,Approved,No Conditions Apply,MILDURA,JESSICA STREET ,Municipal Road,COLIGNAN,210.666460537435
+96,Approved,No Conditions Apply,MILDURA,JOHANSEN DRIVE,Municipal Road,CULLULLERAINE,155.719426831123
+97,Approved,No Conditions Apply,MILDURA,JOHNS WAY,Municipal Road,RED CLIFFS,1030.22556197308
+98,Approved,No Conditions Apply,MILDURA,JOHNSON STREET,Municipal Road,OUYEN,747.169716874256
+99,Approved,No Conditions Apply,MILDURA,KEMPE ROAD ,Municipal Road,LINDSAY POINT,2663.57057601325
+100,Approved,No Conditions Apply,MILDURA,KENYON STREET ,Municipal Road,WALPEUP,24.2223482739042
+101,Approved,No Conditions Apply,MILDURA,KING STREET,Municipal Road,WERRIMULL,314.261545990912
+102,Approved,No Conditions Apply,MILDURA,KING STREET ,Municipal Road,WERRIMULL,368.490447190941
+103,Approved,No Conditions Apply,MILDURA,KULKYNE WAY ,Municipal Road,COLIGNAN,3483.06905580959
+104,Approved,No Conditions Apply,MILDURA,LACEY AVENUE,Municipal Road,LINDSAY POINT,8282.96420588427
+105,Approved,No Conditions Apply,MILDURA,LAFRANCHI LANEWAY ,Municipal Road,OUYEN,116.720257765475
+106,Approved,No Conditions Apply,MILDURA,LAKE PARK ROAD,Municipal Road,CULLULLERAINE,778.718346224297
+107,Approved,No Conditions Apply,MILDURA,LAKESIDE COURT ,Municipal Road,CULLULLERAINE,136.811781816761
+108,Approved,No Conditions Apply,MILDURA,LAST STREET ,Municipal Road,MURRAYVILLE,275.871599834911
+109,Approved,No Conditions Apply,MILDURA,LAWLER STREET,Municipal Road,OUYEN,281.529453682639
+110,Approved,No Conditions Apply,MILDURA,LAYTON LANEWAY ,Municipal Road,OUYEN,264.305478352591
+111,Approved,No Conditions Apply,MILDURA,LEWIS ROAD,Municipal Road,COLIGNAN,2308.36463963764
+112,Approved,No Conditions Apply,MILDURA,LEWIS STREET,Municipal Road,COWANGIE,304.407104715205
+113,Approved,No Conditions Apply,MILDURA,LOCK 9 ROAD ,Municipal Road,CULLULLERAINE,2863.3048863146
+114,Approved,No Conditions Apply,MILDURA,LOVERIDGE STREET,Municipal Road,OUYEN,350.224047145595
+115,Approved,No Conditions Apply,MILDURA,MALKIN AVENUE,Municipal Road,UNDERBOOL,185.538888348591
+116,Approved,No Conditions Apply,MILDURA,MALKIN AVENUE ,Municipal Road,UNDERBOOL,358.262943287059
+117,Approved,No Conditions Apply,MILDURA,MAMENGOROOCK ROAD ,Municipal Road,UNDERBOOL,482.703567585937
+118,Approved,No Conditions Apply,MILDURA,MARSHALL ROAD ,Municipal Road,OUYEN,2095.81571200927
+119,Approved,No Conditions Apply,MILDURA,MARTIN AVENUE,Municipal Road,OUYEN,309.033529201334
+120,Approved,No Conditions Apply,MILDURA,MATHESON STREET,Municipal Road,OUYEN,496.492855681411
+121,Approved,No Conditions Apply,MILDURA,MCDONALD ROAD,Municipal Road,BOINKA,205.458307878828
+122,Approved,No Conditions Apply,MILDURA,MCERVALE STREET ,Municipal Road,MITTYACK,623.584042824211
+123,Approved,No Conditions Apply,MILDURA,MCGAFFIN ROAD ,Municipal Road,MERINGUR,201.591583040554
+124,Approved,No Conditions Apply,MILDURA,MERCER STREET ,Municipal Road,KOORLONG,3182.03723613092
+125,Approved,No Conditions Apply,MILDURA,MERIDIAN ACCESS ROAD,Municipal Road,WALPEUP,3443.45850101675
+126,Approved,No Conditions Apply,MILDURA,MERIDIAN ROAD ,Municipal Road,MERBEIN WEST to MERBEIN SOUTH,8866.19507982329
+127,Approved,No Conditions Apply,MILDURA,MERIDIAN ROAD ,Municipal Road,MERBEIN WEST to YELTA,6447.19059439257
+128,Approved,No Conditions Apply,MILDURA,MERIDIAN ROAD ,Municipal Road,WALPEUP,6365.07716515855
+129,Approved,No Conditions Apply,MILDURA,MERINGUR-RED CLIFFS ROAD,Municipal Road,MERINGUR,16996.2351905769
+130,Approved,No Conditions Apply,MILDURA,MERINGUR NORTH ROAD,Municipal Road,MERINGUR,14836.8218607986
+131,Approved,No Conditions Apply,MILDURA,MITCHELL STREET,Municipal Road,OUYEN,857.66181651057
+132,Approved,No Conditions Apply,MILDURA,MONAGHAN ROAD ,Municipal Road,OUYEN,159.835800622531
+133,Approved,No Conditions Apply,MILDURA,MONASH AVENUE,Municipal Road,UNDERBOOL,1366.3640132167
+134,Approved,No Conditions Apply,MILDURA,MORNING RISE ,Municipal Road,KOORLONG,131.412115778419
+135,Approved,No Conditions Apply,MILDURA,MOSSOP STREET ,Municipal Road,UNDERBOOL,402.049342814233
+136,Approved,No Conditions Apply,MILDURA,MULLROO DRIVE,Municipal Road,WERRIMULL,351.47489787868
+137,Approved,No Conditions Apply,MILDURA,MURRAYVILLE-NHILL ROAD,Municipal Road,MURRAYVILLE,619.207878852248
+138,Approved,No Conditions Apply,MILDURA,MURRAYVILLE-NHILL ROAD ,Municipal Road,MURRAYVILLE,7081.83726503235
+139,Approved,No Conditions Apply,MILDURA,MURRAYVILLE NORTH ROAD,Municipal Road,MURRAYVILLE,341.641597857791
+140,Approved,No Conditions Apply,MILDURA,MURRAYVILLE NORTH ROAD ,Municipal Road,MURRAYVILLE,10838.2136412099
+141,Approved,No Conditions Apply,MILDURA,NGALLO ROAD,Municipal Road,MURRAYVILLE,74.9376551313162
+142,Approved,No Conditions Apply,MILDURA,NIHILL STREET ,Municipal Road,OUYEN,638.963622056512
+143,Approved,No Conditions Apply,MILDURA,NORTH WEST ROAD,Municipal Road,OUYEN,728.681313034143
+144,Approved,No Conditions Apply,MILDURA,NORTH WEST ROAD ,Municipal Road,OUYEN,11587.0764819798
+145,Approved,No Conditions Apply,MILDURA,NYANG SOUTH ROAD ,Municipal Road,TORRITA,3263.99728366961
+146,Approved,No Conditions Apply,MILDURA,OKE STREET,Municipal Road,OUYEN,770.997709771718
+147,Approved,No Conditions Apply,MILDURA,OLD KIA ROAD,Municipal Road,OUYEN,15324.9655895661
+148,Approved,No Conditions Apply,MILDURA,OUYEN-PATCHEWOLLOCK ROAD,Municipal Road,OUYEN to PATCHEWOLLOCK,33300.6763900419
+149,Approved,No Conditions Apply,MILDURA,OWEN ROAD,Municipal Road,MERINGUR,111.991773638027
+150,Approved,No Conditions Apply,MILDURA,PANITYA NORTH ROAD ,Municipal Road,PANITYA,3050.74097237462
+151,Approved,No Conditions Apply,MILDURA,PARALLEL ROAD ,Municipal Road,OUYEN,3379.6504013758
+152,Approved,No Conditions Apply,MILDURA,PATCHEWOLLOCK-UNDERBOOL ROAD,Municipal Road,UNDERBOOL,599.162784124903
+153,Approved,No Conditions Apply,MILDURA,PENDLEBURY ROAD ,Municipal Road,WALPEUP,184.070675479865
+154,Approved,No Conditions Apply,MILDURA,PICKERING STREET,Municipal Road,OUYEN,623.567551268294
+155,Approved,No Conditions Apply,MILDURA,PIRRO ROAD,Municipal Road,TEMPY,13554.4342332883
+156,Approved,No Conditions Apply,MILDURA,POLE ROAD ,Municipal Road,TORRITA,2013.17350382399
+157,Approved,No Conditions Apply,MILDURA,POOLE STREET,Municipal Road,MURRAYVILLE,1394.5444625412
+158,Approved,No Conditions Apply,MILDURA,RAILWAY TERRACE,Municipal Road,OUYEN,419.251160868621
+159,Approved,No Conditions Apply,MILDURA,RECREATION ROAD,Municipal Road,MURRAYVILLE,869.759305366395
+160,Approved,No Conditions Apply,MILDURA,REED STREET,Municipal Road,MURRAYVILLE,1071.33041152232
+161,Approved,No Conditions Apply,MILDURA,RICHARDSON STREET ,Municipal Road,WALPEUP,800.478545846442
+162,Approved,No Conditions Apply,MILDURA,RITCHIE STREET,Municipal Road,OUYEN,1418.90047754499
+163,Approved,No Conditions Apply,MILDURA,ROWE STREET,Municipal Road,OUYEN,1912.69074780043
+164,Approved,No Conditions Apply,MILDURA,ROWE STREET ,Municipal Road,OUYEN,78.9835838437525
+165,Approved,No Conditions Apply,MILDURA,RUDDS ROAD,Municipal Road,IRAAK,162.273865602026
+166,Approved,No Conditions Apply,MILDURA,SCOTT STREET ,Municipal Road,OUYEN,1412.79145598681
+167,Approved,No Conditions Apply,MILDURA,SCULTHORPE ROAD,Municipal Road,NANGILOC to COLIGNAN,6447.52136266442
+168,Approved,No Conditions Apply,MILDURA,SHADDOCK COURT,Municipal Road,OUYEN,325.153257758459
+169,Approved,No Conditions Apply,MILDURA,SHARROCK STREET ,Municipal Road,MURRAYVILLE,915.095418095925
+170,Approved,No Conditions Apply,MILDURA,SOUTH STREET ,Municipal Road,UNDERBOOL,1047.97166311548
+171,Approved,No Conditions Apply,MILDURA,SOUTH WEST ANGLE ROAD,Municipal Road,CARWARP,95.3590228546121
+172,Approved,No Conditions Apply,MILDURA,STONEHOUSE COURT,Municipal Road,KOORLONG,1554.68033876177
+173,Approved,No Conditions Apply,MILDURA,SWANN STREET ,Municipal Road,OUYEN,156.208883612877
+174,Approved,No Conditions Apply,MILDURA,TAGGERT ROAD,Municipal Road,MERINGUR,188.22323528997
+175,Approved,No Conditions Apply,MILDURA,THORNE STREET,Municipal Road,OUYEN,422.365579451689
+176,Approved,No Conditions Apply,MILDURA,TREVISO WAY ,Municipal Road,RED CLIFFS to CARWARP,2926.35463561691
+177,Approved,No Conditions Apply,MILDURA,TULLY ROAD ,Municipal Road,MURRAYVILLE,165.79696273172
+178,Approved,No Conditions Apply,MILDURA,TWENTY SECOND STREET ,Municipal Road,KOORLONG to IRYMPLE,396.369471668847
+179,Approved,No Conditions Apply,MILDURA,TWENTY THIRD STREET,Municipal Road,CARDROSS,780.83956703841
+180,Approved,No Conditions Apply,MILDURA,UNDERBOOL-PATCHEWOLLOCK ROAD ,Municipal Road,UNDERBOOL,3897.26059953803
+181,Approved,No Conditions Apply,MILDURA,UNDERBOOL SOUTH ROAD,Municipal Road,UNDERBOOL,293.381888626181
+182,Approved,No Conditions Apply,MILDURA,UNDERBOOL SOUTH ROAD ,Municipal Road,UNDERBOOL,779.033070861748
+183,Approved,No Conditions Apply,MILDURA,VINE COURT,Municipal Road,OUYEN,95.8617652529448
+184,Approved,No Conditions Apply,MILDURA,WALSH LANEWAY ,Municipal Road,OUYEN,234.405734138482
+185,Approved,No Conditions Apply,MILDURA,WARD ROAD,Municipal Road,CARWARP,1033.07282390938
+186,Approved,No Conditions Apply,MILDURA,WEIR STREET ,Municipal Road,OUYEN,466.295548434451
+187,Approved,No Conditions Apply,MILDURA,WERRIMULL NORTH ROAD,Municipal Road,CULLULLERAINE,197.164255086727
+188,Approved,No Conditions Apply,MILDURA,WERRIMULL NORTH ROAD,Municipal Road,CULLULLERAINE to WERRIMULL,14668.1142168793
+189,Approved,No Conditions Apply,MILDURA,WERRIMULL NORTH ROAD,Municipal Road,WERRIMULL,99.1425781729249
+190,Approved,No Conditions Apply,MILDURA,WESTH STREET ,Municipal Road,UNDERBOOL,178.850922833109
+191,Approved,No Conditions Apply,MILDURA,WILGA ROAD ,Municipal Road,RED CLIFFS,2478.73046012805
+192,Approved,No Conditions Apply,MILDURA,WILLIAMS STREET,Municipal Road,OUYEN,624.396870026714
+193,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,DELWP,BIRKINS ROAD,Municipal Road,CARWARP to IRAAK,839.100866105911
+194,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,DELWP,KEILLOR LANE ,Municipal Road,CARWARP,281.894494594051
+195,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,DELWP,NOONAN LANE ,Municipal Road,CARWARP,603.372248935086
+196,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,DELWP,NORTH WEST ANGLE ROAD,Municipal Road,CARWARP,848.260583769753
+197,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,DELWP,OLD SCHOOL ROAD ,Municipal Road,CARWARP,450.475118849742
+198,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,DELWP,REILLY LANE,Municipal Road,CARWARP,248.143019479988
+199,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,DELWP,RUDDS ROAD,Municipal Road,IRAAK,1393.76481653873
+200,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,DELWP,UNNAMED,Municipal Road,CARWARP,2742.35390957568
+201,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,DELWP,UNNAMED,Municipal Road,CULLULLERAINE,407.663224953808
+202,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,DELWP,UNNAMED,Municipal Road,WERRIMULL,64.3370387647824
+203,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,,Unknown,BOINKA,1386.62004193737
+204,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,AFRICAN ALLEY,Municipal Road,PANITYA,3422.46605128607
+205,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,AIKMAN ROAD,Municipal Road,UNDERBOOL to TORRITA,12247.7949352372
+206,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ALLAN ROAD ,Municipal Road,PANITYA,4832.37288929406
+207,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,AMOS LANE,Municipal Road,WARGAN to MERRINEE,3477.86086602946
+208,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,AMOS LANE ,Municipal Road,WARGAN,8986.58358092559
+209,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ANDERSON ROAD,Municipal Road,LINGA to UNDERBOOL,8109.84377438233
+210,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ANDERSON ROAD,Municipal Road,OUYEN,11140.8269326391
+211,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ARBUCKLE ROAD,Municipal Road,OUYEN,7665.63032887214
+212,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ARNEY LANE,Municipal Road,MERRINEE,3583.10456724882
+213,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ARNEY LANE,Municipal Road,WERRIMULL to MERRINEE,40752.2705659587
+214,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ARNOLD STREET,Municipal Road,OUYEN,561.6735345078
+215,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ARTESIAN BORE ROAD,Municipal Road,,9020.97834868103
+216,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,AUSTIN ROAD,Municipal Road,CARWARP,6602.56969164094
+217,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,B-SUB ROAD,Municipal Road,WERRIMULL,11381.6195645054
+218,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BAHRS LANE,Municipal Road,MERINGUR,6034.80745216692
+219,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BAILEY ROAD,Municipal Road,MERINGUR to WERRIMULL,8047.26274664055
+220,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BAILEY ROAD,Municipal Road,TORRITA to WALPEUP,11308.9881809968
+221,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BAKER ROAD,Municipal Road,OUYEN,7869.31885936166
+222,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BAKER ROAD,Municipal Road,WERRIMULL,11139.0553083043
+223,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BAMBILL NORTH ROAD,Municipal Road,NEDS CORNER to WERRIMULL,17667.9638925389
+224,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BAMBILL SOUTH ROAD,Municipal Road,WERRIMULL to MURRAY-SUNSET,18148.0811758641
+225,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BARING NORTH ROAD,Municipal Road,PATCHEWOLLOCK,14853.7552379812
+226,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BARING SOUTH ROAD,Municipal Road,PATCHEWOLLOCK,7123.71948579186
+227,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BARKO ROAD,Municipal Road,IRAAK,3787.47686894711
+228,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BARNES ROAD,Municipal Road,OUYEN,7375.86058878874
+229,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BEER ROAD,Municipal Road,COWANGIE to BIG DESERT,14877.4817087474
+230,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BEER ROAD,Municipal Road,WERRIMULL,11315.2986749378
+231,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BELAR ROAD,Municipal Road,IRAAK,989.782577073776
+232,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BELL ROAD,Municipal Road,WALPEUP,4892.02551916635
+233,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BELLBIRD BORE ROAD,Municipal Road,MURRAY-SUNSET to CARINA,13854.5673431391
+234,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BELLBIRD BORE ROAD,Municipal Road,PANITYA,6399.14900334296
+235,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BENETOOK AVENUE ,Municipal Road,KOORLONG to CARWARP,4558.97262279318
+236,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BERLIN ROAD,Municipal Road,PANITYA,2259.5753189932
+237,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BERRIBEE HOMESTEAD TRACK,Municipal Road,LINDSAY POINT,3820.38647422178
+238,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BERRYS ROAD,Municipal Road,WERRIMULL to MURRAY-SUNSET,10989.4002395298
+239,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BERTALLI ROAD,Municipal Road,UNDERBOOL,4141.81421001876
+240,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BIRKINS ROAD,Municipal Road,CARWARP to IRAAK,11970.1809663864
+241,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BLACK JACK ROAD,Municipal Road,MERINGUR,8680.05029488476
+242,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BLACK LANE,Municipal Road,WERRIMULL,3480.97597066259
+243,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BLAKE ROAD,Municipal Road,IRAAK,1423.51347573725
+244,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BOETTCHER LANE,Municipal Road,MURRAYVILLE,81.9882840627211
+245,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BOINKA SOUTH ROAD ,Municipal Road,BOINKA,8816.072918613
+246,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BOLAND ROAD,Municipal Road,KULWIN,11399.8345524654
+247,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BOND CROSSING,Municipal Road,BOINKA,1161.64636990401
+248,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BONICA ROAD,Municipal Road,MURRAY-SUNSET to OUYEN,14876.3443564485
+249,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BOOLUNGAL ROAD,Municipal Road,KULWIN,6777.88002458971
+250,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BOONOONAR WEST ROAD,Municipal Road,CARWARP,7687.32270988275
+251,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BORDER ROAD,Municipal Road,,8215.19736191432
+252,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BORDER ROAD,Municipal Road,PANITYA,24485.4866815316
+253,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BORDER TRACK,Municipal Road,BIG DESERT,106.250628784895
+254,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BOTHES ROAD,Municipal Road,WERRIMULL,14110.9413396178
+255,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BOULKA ROAD,Municipal Road,OUYEN,11245.306570212
+256,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BOULTON LANE,Municipal Road,WERRIMULL,2488.67065618661
+257,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BOUNDARY ROAD,Municipal Road,NANDALY to PIER MILAN,15880.3287540888
+258,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BOX FLAT ROAD,Municipal Road,OUYEN,5105.62603253683
+259,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BRAUN ROAD,Municipal Road,MERINGUR,7484.96551205296
+260,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BRAUN ROAD,Municipal Road,PANITYA,5741.42866094139
+261,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BRIDGE ROAD,Municipal Road,PANITYA,3.23536847328606
+262,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BRIDGE ROAD,Municipal Road,PANITYA to CARINA,17489.1174117376
+263,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BRIGGS LANE,Municipal Road,COLIGNAN,575.283356170998
+264,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BRIGHTONS TANK ROAD,Municipal Road,CARWARP,9721.27054572621
+265,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BRIGHTONS TANK TRACK,Municipal Road,CARWARP,53.5980018087228
+266,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BRITT STREET ,Municipal Road,OUYEN,27.6078660377952
+267,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BRONZEWING EAST ROAD,Municipal Road,OUYEN,8068.67261107029
+268,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BRONZEWING WEST ROAD,Municipal Road,OUYEN,3613.11677764554
+269,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BROWN LANE,Municipal Road,MURRAYVILLE,357.142856149277
+270,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BROWN ROAD,Municipal Road,LINGA to BOINKA,5482.01558992239
+271,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BROWNS ROAD,Municipal Road,COLIGNAN,115.912643458027
+272,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BRYANS ROAD,Municipal Road,PATCHEWOLLOCK,1121.57181448785
+273,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BULL LANE,Municipal Road,CARWARP,4092.41813788547
+274,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BUNSTUN ROAD,Municipal Road,BOINKA to LINGA,9502.87021170986
+275,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BURNELL ROAD,Municipal Road,HATTAH to OUYEN,14290.1553797972
+276,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BURSTALL ROAD,Municipal Road,LINGA to UNDERBOOL,11233.5539062342
+277,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BURTON LANEWAY,Municipal Road,OUYEN,297.779520815836
+278,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BURZACOTT LANE,Municipal Road,MURRAYVILLE,139.138603261829
+279,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BUTCH ROAD,Municipal Road,TUTYE,3764.65888301479
+280,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,BYRNE LANE,Municipal Road,WALPEUP,2260.47109389763
+281,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CACTUS BORE TRACK,Municipal Road,MURRAYVILLE,1560.28832023756
+282,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CADWALLADER ROAD,Municipal Road,KULWIN,8679.23131933454
+283,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CAIRNS ROAD,Municipal Road,OUYEN to MITTYACK,6150.86196523748
+284,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CALAMITY TANK ROAD,Municipal Road,OUYEN,8839.62879679161
+285,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CALDOW ROAD,Municipal Road,OUYEN,4530.93846565622
+286,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CALLAHAN ROAD,Municipal Road,WERRIMULL,3944.76780748703
+287,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CAMERON ROAD,Municipal Road,MERINGUR,7473.21367903497
+288,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CAMERONS ROAD,Municipal Road,HATTAH,2468.43164117053
+289,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CAMPBELL ROAD,Municipal Road,UNDERBOOL,7623.35021570685
+290,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CANNY LANE,Municipal Road,BOINKA,5538.50425911672
+291,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CARINA NORTH ROAD,Municipal Road,CARINA,22429.1545961891
+292,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CARINA SOUTH ROAD,Municipal Road,CARINA,14240.783462304
+293,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CARROLL ROAD,Municipal Road,OUYEN to WALPEUP,3144.10914844896
+294,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CARTER ROAD,Municipal Road,WERRIMULL to MERRINEE,11501.3786702186
+295,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CARWARP ROAD ,Municipal Road,WERRIMULL to CARWARP,63668.3342644672
+296,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CARWARP SOUTH WEST ROAD,Municipal Road,,9445.85578713458
+297,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CASSIDY ROAD,Municipal Road,OUYEN,7720.28755658246
+298,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CASTLE CROSSING ROAD ,Municipal Road,CARWARP to COLIGNAN,21901.5358163671
+299,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CASTLE LANEWAY,Municipal Road,OUYEN,380.803694744087
+300,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CEMETERY EAST ROAD,Municipal Road,MURRAYVILLE,1960.28636465832
+301,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CEMETERY ROAD,Municipal Road,COWANGIE,7220.89657641074
+302,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CEMETERY ROAD,Municipal Road,UNDERBOOL,3009.37581923887
+303,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CEMETERY ROAD ,Municipal Road,MURRAYVILLE,1553.32937229474
+304,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CEMETERY WEST ROAD,Municipal Road,MURRAYVILLE,2165.58874330891
+305,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CHAPLIN ROAD,Municipal Road,,7887.44499061462
+306,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CHAPLIN ROAD,Municipal Road,TUTYE,3559.58904095598
+307,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CHAPLIN ROAD ,Municipal Road,TUTYE,1454.95304203643
+308,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CHAPMAN ROAD,Municipal Road,OUYEN,7947.53714783307
+309,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CHARLIES ROAD,Municipal Road,MERINGUR,11294.4251407146
+310,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CHATTERTON ROAD,Municipal Road,COWANGIE,3544.24706895815
+311,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CHAVES PLAIN ROAD,Municipal Road,LINGA to UNDERBOOL,8655.86622917686
+312,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CHEESEMAN ROAD,Municipal Road,TORRITA to WALPEUP,12114.3602135591
+313,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CHRISTIE LANE,Municipal Road,KULWIN,1371.36226158449
+314,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CLARK ROAD,Municipal Road,KULWIN,7654.40133462377
+315,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CLARK ROAD,Municipal Road,UNDERBOOL,5728.60014768973
+316,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CLEARY ROAD,Municipal Road,MERRINEE,11727.8660769828
+317,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CLEARY ROAD,Municipal Road,MERRINEE to CARWARP,39898.0305682293
+318,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CLEARY ROAD,Municipal Road,WERRIMULL to MERRINEE,11566.7965216521
+319,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,COCAMBA ROAD,Municipal Road,OUYEN to MANANGATANG,44539.6131525801
+320,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,COLEMAN ROAD,Municipal Road,OUYEN,2105.2261364882
+321,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,COLLINS ROAD,Municipal Road,TEMPY,2185.21078248521
+322,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,COLMO LANEWAY,Municipal Road,OUYEN,251.820182727296
+323,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,COMINI LANEWAY,Municipal Road,OUYEN,159.604770914611
+324,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,COOKE ROAD,Municipal Road,TORRITA,14192.8999294669
+325,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CORBETT LANE,Municipal Road,WALPEUP,1013.87568656683
+326,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,COURT STREET,Municipal Road,MITTYACK,395.697394851623
+327,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,COWANGIE SOUTH ROAD,Municipal Road,COWANGIE to BIG DESERT,10514.9807136588
+328,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,COWANGIE SOUTH ROAD ,Municipal Road,COWANGIE,6751.97487808757
+329,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,COX LANE,Municipal Road,MURRAYVILLE,126.850286848595
+330,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CRANE ROAD,Municipal Road,MURRAYVILLE,10760.0065892161
+331,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CRANE ROAD,Municipal Road,PATCHEWOLLOCK,3909.45169171308
+332,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CREAN ROAD,Municipal Road,WALPEUP,3624.72981735327
+333,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CREMMINS ROAD ,Municipal Road,MERINGUR,112.300779341342
+334,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CROFT ROAD,Municipal Road,MERINGUR,11227.9143604059
+335,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CROMBIE ROAD,Municipal Road,TUTYE,5281.25136958623
+336,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CROOK ROAD,Municipal Road,KULWIN,3298.13914673966
+337,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CROSBIE LANEWAY,Municipal Road,OUYEN,452.655322086417
+338,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CROTHERS ROAD,Municipal Road,UNDERBOOL,3059.44687365226
+339,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CROW ROAD,Municipal Road,LINGA,13252.6711019907
+340,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CUMMINGS ROAD,Municipal Road,TUTYE,4343.74498338059
+341,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CUMMINGS ROAD,Municipal Road,TUTYE to BOINKA,9987.53675048702
+342,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CURRAM ROAD,Municipal Road,OUYEN,15853.4039248064
+343,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CURTIS ROAD,Municipal Road,WARGAN,11592.8089993244
+344,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,CUTLER LANE,Municipal Road,KOORLONG to CARWARP,3741.89419084113
+345,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DAALKO ROAD,Municipal Road,TORRITA,5021.63640332294
+346,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DAKERS STREET,Municipal Road,OUYEN,471.445977402612
+347,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DALY ROAD,Municipal Road,KULWIN,4611.40363464548
+348,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DANES ROAD,Municipal Road,IRAAK,5290.76336444846
+349,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DANYO NORTH ROAD,Municipal Road,COWANGIE,22993.5574996927
+350,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DANYO SOUTH ROAD,Municipal Road,COWANGIE,11323.0478474008
+351,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DARBS ROAD,Municipal Road,PATCHEWOLLOCK,5783.21291124726
+352,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DART ROAD,Municipal Road,MERINGUR,11302.5654050875
+353,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DART ROAD,Municipal Road,WERRIMULL,13207.8154333896
+354,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DESERT ROAD,Municipal Road,OUYEN,2200.88383966126
+355,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DICKESON GROVE,Municipal Road,COLIGNAN,2173.85671121172
+356,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DINGO TANK ROAD ,Municipal Road,OUYEN,14921.0821168357
+357,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DIXON ROAD,Municipal Road,OUYEN,279.103480013119
+358,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DOERING ROAD,Municipal Road,RED CLIFFS to CARWARP,12517.913237939
+359,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DOLAN LANEWAY,Municipal Road,OUYEN,135.562936226907
+360,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DONNELLY ROAD ,Municipal Road,WALPEUP,13314.8796366972
+361,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DOUGLAS LANE,Municipal Road,WERRIMULL,252.253106695971
+362,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DOW LANEWAY,Municipal Road,OUYEN,109.026118251572
+363,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DRENDEL ROAD,Municipal Road,TUTYE to COWANGIE,9081.51992529664
+364,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DUDDO WELLS ROAD,Municipal Road,MURRAYVILLE,9148.05577617858
+365,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DUNCAN ROAD,Municipal Road,MERINGUR,13472.2997511675
+366,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DUNKLEY ROAD ,Municipal Road,OUYEN,6832.69986879337
+367,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DUNNE ROAD,Municipal Road,MERRINEE,11355.8483827338
+368,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,DUNNING LANE,Municipal Road,MERINGUR,21.3573722243701
+369,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,EAC LANE,Municipal Road,NANGILOC,1243.456815246
+370,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,EAST ROAD,Municipal Road,PANITYA,29.6320765853016
+371,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,EAST STREET ,Municipal Road,UNDERBOOL,602.481882808851
+372,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,EASTMOND ROAD,Municipal Road,MERRINEE,4835.9283627744
+373,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,EDWARDS ROAD,Municipal Road,OUYEN to KULWIN,16968.3266390203
+374,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ELDRIDGE LANEWAY,Municipal Road,OUYEN,119.014875719181
+375,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ELLIOTT ROAD,Municipal Road,UNDERBOOL,812.641251736492
+376,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ELLISON LANEWAY,Municipal Road,OUYEN,545.906783638826
+377,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,EMU FLAT TRACK,Municipal Road,,5471.03595473185
+378,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ERHARDT ROAD,Municipal Road,OUYEN,4724.60816444683
+379,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,EWINS ROAD,Municipal Road,BOINKA,5697.88299154506
+380,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FASHAM STREET ,Municipal Road,UNDERBOOL,889.774041688932
+381,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FATS ROAD,Municipal Road,MERINGUR,14776.1992668708
+382,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FEIGLINS ROAD,Municipal Road,COLIGNAN,3625.89702489537
+383,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FISHER LANE,Municipal Road,MURRAYVILLE,105.126633625774
+384,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FORBES LANE,Municipal Road,MURRAYVILLE,82.29496177188
+385,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FORBES ROAD,Municipal Road,CARWARP to RED CLIFFS,7536.70679031331
+386,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FORSYTH ROAD,Municipal Road,MURRAYVILLE,25495.8867847402
+387,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FOX LANEWAY,Municipal Road,OUYEN,747.079445439515
+388,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FOX ROAD,Municipal Road,MERINGUR,10308.0600716376
+389,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FRANCIS STREET ,Municipal Road,MURRAYVILLE,354.793972362519
+390,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FRANKEL ROAD,Municipal Road,PATCHEWOLLOCK,3080.71593437182
+391,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FRASER ROAD,Municipal Road,TEMPY,1020.96607903419
+392,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FRASER ROAD,Municipal Road,WERRIMULL,5167.59963531174
+393,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FREE LANE,Municipal Road,COWANGIE,4436.63746505616
+394,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FREELAND LANE,Municipal Road,WALPEUP,1455.99041953684
+395,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FRITH ROAD,Municipal Road,TORRITA,3609.12449937637
+396,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,FULLER STREET ,Municipal Road,OUYEN,157.158700258834
+397,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GAIRNS ROAD,Municipal Road,MERRINEE,8356.60601314305
+398,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GALAH NORTH ROAD,Municipal Road,MURRAY-SUNSET to OUYEN,27221.6892039491
+399,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GAYFIELD ROAD,Municipal Road,HATTAH,5116.46700810438
+400,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GEORGE IRWIN ROAD,Municipal Road,COLIGNAN,2008.79309087566
+401,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GERSH ROAD,Municipal Road,TORRITA,1449.11702458841
+402,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GIBBINS ROAD,Municipal Road,OUYEN,2585.95021577533
+403,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GIBBS ROAD,Municipal Road,COLIGNAN,9443.2054985055
+404,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GIBSON ROAD,Municipal Road,COWANGIE,8831.35026549115
+405,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GILBERT LANEWAY,Municipal Road,OUYEN,193.29138703737
+406,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GINGUAM ROAD,Municipal Road,CARWARP,502.43526843602
+407,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GINGUAM WEST ROAD,Municipal Road,CARWARP,3598.21454644914
+408,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GLEN STREET,Municipal Road,WALPEUP,512.642999721452
+409,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GLOVER LANEWAY,Municipal Road,OUYEN,228.250874105458
+410,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GLOWERY STREET,Municipal Road,OUYEN,145.753757198681
+411,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GNARR ROAD ,Municipal Road,MURRAY-SUNSET to UNDERBOOL,15872.8732394626
+412,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GNIEL ROAD,Municipal Road,OUYEN,5810.82894057478
+413,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GOONGEE-KOONDA ROAD,Municipal Road,MURRAYVILLE to COWANGIE,28272.1104415601
+414,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GOONGEE ROAD,Municipal Road,CARINA to MURRAYVILLE,11442.840735347
+415,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GORDON AVENUE,Municipal Road,COLIGNAN,1177.53167532386
+416,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GRACE ROAD,Municipal Road,OUYEN,4051.1353724567
+417,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GRAY ROAD,Municipal Road,MERINGUR,22264.5025444697
+418,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GROWLERS ROAD,Municipal Road,LINGA to UNDERBOOL,11548.9990081022
+419,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GUNAMALARY ROAD,Municipal Road,MURRAYVILLE to COWANGIE,15456.9231783086
+420,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GUNNER ROAD,Municipal Road,UNDERBOOL to BIG DESERT,7416.83906346987
+421,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GUNNERS TRACK,Municipal Road,BIG DESERT,44.7020306009971
+422,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GYPO ROAD,Municipal Road,COWANGIE,3008.73712527601
+423,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,GYPSUM ROAD,Municipal Road,CARWARP,10586.6965311833
+424,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HAHNEL LANE,Municipal Road,OUYEN,3831.58937492779
+425,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HALL ROAD,Municipal Road,MITTYACK,4998.23815596261
+426,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HALL ROAD ,Municipal Road,MITTYACK,525.725321591815
+427,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HANNIG ROAD,Municipal Road,WALPEUP,12762.5724212057
+428,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HARCOAN ROAD,Municipal Road,WERRIMULL,5818.13804442136
+429,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HARDS LANE,Municipal Road,CULLULLERAINE,4345.30867861219
+430,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HARDS LANE,Municipal Road,IRAAK,1219.52282709611
+431,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HARDS ROAD,Municipal Road,IRAAK,1481.52077914
+432,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HARDWICK ROAD,Municipal Road,OUYEN,2810.11018845319
+433,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HARKER ROAD,Municipal Road,MERINGUR,11160.7961456865
+434,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HARMER LANEWAY,Municipal Road,OUYEN,297.639635969823
+435,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HARMER ROAD,Municipal Road,MERINGUR,22133.0620647872
+436,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HARRIS LANEWAY,Municipal Road,OUYEN,167.482804922765
+437,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HARRISON ROAD,Municipal Road,UNDERBOOL to TORRITA,8872.98492977045
+438,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HARVEY ROAD,Municipal Road,LINGA to UNDERBOOL,10215.1851251261
+439,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HAYTER ROAD,Municipal Road,LINGA to BOINKA,8758.27711508115
+440,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HEALY ROAD,Municipal Road,WALPEUP,6202.9943469775
+441,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HEALY ROAD,Municipal Road,WALPEUP to OUYEN,9196.19349758168
+442,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HEINTZE LANE,Municipal Road,MURRAYVILLE,193.357958019736
+443,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HENSCHKE LANE,Municipal Road,MERRINEE,11304.6767890041
+444,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HEWETT ROAD,Municipal Road,COLIGNAN,2404.51946898446
+445,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HICKMOTT ROAD,Municipal Road,OUYEN,1826.45338221799
+446,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HIGGINS ROAD,Municipal Road,MERRINEE,4319.85282346128
+447,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HIRON ROAD,Municipal Road,KULWIN,4540.24027644491
+448,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HOBBS LANE,Municipal Road,WERRIMULL,3841.56329868762
+449,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HOGAN ROAD,Municipal Road,KULWIN,4291.52285415081
+450,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HOLM STREET,Municipal Road,MURRAYVILLE,1059.83077732295
+451,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HONEYMOON HUT TRACK,Municipal Road,MURRAY-SUNSET to OUYEN,10319.7717550725
+452,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HOOD LANEWAY,Municipal Road,OUYEN,112.972534435656
+453,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HORNE ROAD,Municipal Road,OUYEN,1133.4376859034
+454,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HOWARD ROAD,Municipal Road,,6505.05010019521
+455,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HOYLE ROAD,Municipal Road,,1203.5338304032
+456,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HOYLE ROAD,Municipal Road,YELTA,132.053629808316
+457,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HULLAND ROAD,Municipal Road,BIG DESERT to PATCHEWOLLOCK,12816.3788133189
+458,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,HYNAM ROAD,Municipal Road,PATCHEWOLLOCK,7774.68031235248
+459,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,INGWERSEN STREET,Municipal Road,OUYEN,116.332315767546
+460,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,IRAAK LAKE ROAD,Municipal Road,IRAAK,590.926284230244
+461,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,IRAAK LAKE ROAD ,Municipal Road,IRAAK,3503.66178524287
+462,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,IRWIN ROAD,Municipal Road,MERINGUR,8637.29968067666
+463,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,JACKSON ROAD,Municipal Road,UNDERBOOL,5790.82937670866
+464,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,JARDINE ROAD,Municipal Road,OUYEN,8788.88135022431
+465,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,JAY ROAD,Municipal Road,OUYEN,9169.22668086047
+466,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,JIM BATHGATE ROAD,Municipal Road,PATCHEWOLLOCK,4269.71348133341
+467,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,JOHN ROAD,Municipal Road,WALPEUP to OUYEN,16881.9096172797
+468,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,JOHNASONS ROAD,Municipal Road,COWANGIE,4550.03725973242
+469,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,JOHNS WAY,Municipal Road,RED CLIFFS,5274.1295283324
+470,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,JOLLY ROAD,Municipal Road,PATCHEWOLLOCK,5551.73210375142
+471,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,JONASSON ROAD,Municipal Road,COWANGIE,107.864066996823
+472,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,JONES ROAD,Municipal Road,KULWIN,7344.96671242005
+473,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,JOYCE ROAD,Municipal Road,TORRITA,7271.32838611653
+474,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,JULIAN ROAD,Municipal Road,MITTYACK,5261.20422251843
+475,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KARAWINNA NORTH ROAD,Municipal Road,CULLULLERAINE to MERRINEE,13911.4732162107
+476,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KARAWINNA NORTH ROAD,Municipal Road,MERRINEE,622.990174865787
+477,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KARAWINNA SOUTH ROAD,Municipal Road,MERRINEE,12023.2636900954
+478,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KARWEEN NORTH ROAD,Municipal Road,MERINGUR,14098.4425261631
+479,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KARWEEN SOUTH ROAD,Municipal Road,MERINGUR,17503.9949591865
+480,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KAY ROAD,Municipal Road,OUYEN,11525.7358236488
+481,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KEERA ROAD,Municipal Road,CULLULLERAINE to MERRINEE,23480.697863599
+482,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KEERA ROAD ,Municipal Road,CULLULLERAINE,1613.9983875983
+483,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KELLY LANE,Municipal Road,MERINGUR,3413.77251306898
+484,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KELLY ROAD,Municipal Road,BOINKA,795.11653574986
+485,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KELLY ROAD,Municipal Road,WERRIMULL,7203.29833250665
+486,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KEMPE ROAD,Municipal Road,,2731.17619557245
+487,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KEMPE ROAD ,Municipal Road,LINDSAY POINT,384.273637008924
+488,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KENYON STREET ,Municipal Road,WALPEUP,536.472922556477
+489,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KERR ROAD,Municipal Road,MITTYACK to TEMPY,10784.9326846943
+490,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KERRS ROAD,Municipal Road,TEMPY,4179.83091063604
+491,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KILPATRICK LANE,Municipal Road,UNDERBOOL,1038.15546678475
+492,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KING ROAD,Municipal Road,PATCHEWOLLOCK,4798.60252156771
+493,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KING STREET,Municipal Road,WERRIMULL,409.73360931787
+494,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KING STREET ,Municipal Road,WERRIMULL,193.268648022064
+495,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KINNERSLEY ROAD,Municipal Road,BOINKA,11521.1955722889
+496,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KIRBY LANE,Municipal Road,CARWARP,4490.66903840057
+497,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KRUSE LANE,Municipal Road,MURRAYVILLE,164.545684007898
+498,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KRUSS ROAD,Municipal Road,UNDERBOOL to TORRITA,17651.5123012688
+499,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KULKYNE WAY ,Municipal Road,COLIGNAN,1796.6594000997
+500,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KULNINE ROAD,Municipal Road,CULLULLERAINE,5852.96762982415
+501,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KULWIN MITTYACK ROAD,Municipal Road,KULWIN,256.273575302163
+502,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,KULWIN SOUTH ROAD,Municipal Road,KULWIN,12048.0379572314
+503,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LACKMANN ROAD,Municipal Road,PANITYA,8031.11473584291
+504,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LAFRANCHI LANEWAY,Municipal Road,OUYEN,305.622545380584
+505,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LANE ROAD,Municipal Road,COWANGIE,6228.35295858703
+506,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LANFRANCHI ROAD,Municipal Road,MURRAYVILLE,3246.35126054654
+507,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LAST HOPE TRACK,Municipal Road,MURRAY-SUNSET to HATTAH,2922.07558188797
+508,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LAST STREET,Municipal Road,MURRAYVILLE,367.871890908405
+509,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LAST STREET ,Municipal Road,MURRAYVILLE,421.248944740367
+510,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LATIMER ROAD,Municipal Road,OUYEN,3599.39253617377
+511,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LATTA ROAD,Municipal Road,TORRITA to WALPEUP,4881.32880956801
+512,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LAWRENCE ROAD,Municipal Road,COWANGIE,4584.60362995912
+513,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LAWREY ROAD,Municipal Road,WALPEUP,3001.05811593482
+514,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LAWSON STREET ,Municipal Road,WERRIMULL,249.163298604377
+515,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LE COUTEUR ROAD,Municipal Road,OUYEN,5108.18432795431
+516,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LE POIDEVIN ROAD,Municipal Road,WERRIMULL,10025.2491967277
+517,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LEACH ROAD,Municipal Road,TORRITA to WALPEUP,4853.63291988379
+518,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LEERSEN ROAD,Municipal Road,CULLULLERAINE to WERRIMULL,4563.31709445969
+519,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LEITPAR SCHOOL ROAD,Municipal Road,KULWIN,33.3117997759467
+520,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LENNON LANE,Municipal Road,MERINGUR,1024.67122155508
+521,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LEWIS LANEWAY,Municipal Road,OUYEN,384.200842632874
+522,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LEWIS ROAD,Municipal Road,LINGA,2322.11976763525
+523,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LITTLE ROAD,Municipal Road,TEMPY,3660.44350938635
+524,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LITTLEHALES ROAD,Municipal Road,UNDERBOOL to TORRITA,5813.21142656814
+525,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LOCK 10 ROAD,Municipal Road,WARGAN,4992.8292146609
+526,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LOCK 9 ROAD ,Municipal Road,CULLULLERAINE,8618.63168723728
+527,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LOCKETT ROAD,Municipal Road,LINGA,9847.0462922859
+528,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LODERII TRACK,Municipal Road,KOORLONG,64.8289494860784
+529,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LODWICK ROAD,Municipal Road,OUYEN,16044.6334183988
+530,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LOGAN ROAD,Municipal Road,PANITYA to MURRAYVILLE,24371.893771055
+531,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LOWAN TANK ROAD,Municipal Road,WALPEUP,11009.4135225639
+532,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LOXTON ROAD,Municipal Road,MURRAY-SUNSET to OUYEN,6870.1047107563
+533,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LUCARDIE ROAD,Municipal Road,MITTYACK,2253.21892799067
+534,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LUCAS ROAD,Municipal Road,MERRINEE,4325.91983959912
+535,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LUTGE LANE,Municipal Road,MURRAYVILLE,127.894327370653
+536,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LYLE ROAD,Municipal Road,IRAAK,1973.61640140804
+537,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LYNCH ROAD,Municipal Road,MERINGUR,7410.0148419634
+538,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,LYNCH ROAD,Municipal Road,UNDERBOOL,5948.10825800967
+539,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MACFARLANE LANEWAY,Municipal Road,OUYEN,304.153767591638
+540,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MACGREGOR ROAD,Municipal Road,MERINGUR,7406.07016101686
+541,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MACS ROAD,Municipal Road,MERRINEE,11157.3681356735
+542,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MAGAIN LANE,Municipal Road,KULWIN,1023.66949176434
+543,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MAGNUM AVENUE,Municipal Road,CARDROSS,5569.07005270935
+544,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MALKIN AVENUE,Municipal Road,UNDERBOOL,65.8511520254018
+545,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MALKIN AVENUE ,Municipal Road,UNDERBOOL,1108.80504369989
+546,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MAMENGOROOCK ROAD ,Municipal Road,LINGA,1260.71715959952
+547,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MAMENGOROOCK ROAD ,Municipal Road,LINGA to UNDERBOOL,4777.08568252226
+548,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MANAMBAR ROAD,Municipal Road,COWANGIE to TUTYE,11301.7513956526
+549,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MANAMBAR ROAD ,Municipal Road,TUTYE,104.39916761966
+550,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MANLEY ROAD ,Municipal Road,OUYEN,6068.8432099899
+551,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MARSHALL ROAD ,Municipal Road,OUYEN,13522.5081917205
+552,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MARTIN ROAD,Municipal Road,UNDERBOOL,1546.07397320651
+553,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MARTIN STREET,Municipal Road,OUYEN,156.057129923759
+554,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MATCHETT ROAD,Municipal Road,OUYEN,3881.59419662457
+555,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MATTHEWS LANE,Municipal Road,KOORLONG,3442.26552475408
+556,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MATTSCHOSS ROAD ,Municipal Road,MERINGUR,958.348461442191
+557,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MATULICK LANE,Municipal Road,WERRIMULL,5723.62730997575
+558,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCBAIN LANEWAY,Municipal Road,OUYEN,215.575861183858
+559,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCDONALDS TRACK,Municipal Road,COWANGIE,1999.92728904229
+560,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCEWAN LANE,Municipal Road,CARWARP,3005.48156796364
+561,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCGOUGH ROAD,Municipal Road,COWANGIE,15139.1731391003
+562,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCGREGOR ROAD,Municipal Road,OUYEN,13379.9947391763
+563,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCILVENA ROAD,Municipal Road,OUYEN,5342.28850039404
+564,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCINTOSH ROAD,Municipal Road,TUTYE,1546.19974204502
+565,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCINTYRE ROAD,Municipal Road,OUYEN,2952.01698994758
+566,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCKAY ROAD,Municipal Road,OUYEN,2724.21691397082
+567,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCKNIGHT ROAD,Municipal Road,MERINGUR,13025.6100118528
+568,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCLAREN DRIVE,Municipal Road,COLIGNAN,1905.8296374697
+569,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCNABB LANE,Municipal Road,CARWARP,4110.57490290986
+570,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCSWAIN ROAD,Municipal Road,MERRINEE,11141.9601079599
+571,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MCVICAR ROAD,Municipal Road,UNDERBOOL,2409.41783117719
+572,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MEAD ROAD,Municipal Road,TORRITA to WALPEUP,12109.5936113281
+573,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MEGAW ROAD,Municipal Road,BOINKA,5421.33173309371
+574,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MENGLER ROAD,Municipal Road,OUYEN,9545.27331282695
+575,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MENZEL LANE,Municipal Road,MURRAYVILLE,165.027895923399
+576,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MERIDIAN ACCESS ROAD,Municipal Road,WALPEUP,336.825139301738
+577,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MERIDIAN ROAD,Municipal Road,BIG DESERT,4701.38824797772
+578,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MERIDIAN ROAD,Municipal Road,KOORLONG to CARWARP,25367.524760179
+579,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MERIDIAN ROAD,Municipal Road,MERBEIN SOUTH to KOORLONG,17716.5964190099
+580,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MERIDIAN ROAD ,Municipal Road,MURRAY-SUNSET to WALPEUP,18870.6308944123
+581,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MERIDIAN ROAD ,Municipal Road,WALPEUP,253.494779083391
+582,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MERINGUR SOUTH ROAD ,Municipal Road,MERINGUR,6814.51520223623
+583,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MERRETT ROAD,Municipal Road,OUYEN,17569.5773707627
+584,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MERRINEE NORTH ROAD,Municipal Road,MERRINEE,13425.1581652574
+585,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MERRINEE SOUTH ROAD,Municipal Road,MERRINEE to MURRAY-SUNSET,25297.4789955455
+586,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MICKAN ROAD,Municipal Road,PANITYA to CARINA,11751.0631353477
+587,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MILDE LANE,Municipal Road,MURRAYVILLE,310.704872712228
+588,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MILLERS TRACK,Municipal Road,BIG DESERT,5362.95166207105
+589,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MILLEWA ROAD ,Municipal Road,MERINGUR,2322.03559396658
+590,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MINIFIE ROAD,Municipal Road,COWANGIE,14309.0232532245
+591,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MITCHELL ROAD,Municipal Road,LINGA,1519.65243737292
+592,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MITCHELLS BORE EAST ROAD,Municipal Road,MURRAYVILLE,10052.0882088846
+593,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MOLE ROAD,Municipal Road,PATCHEWOLLOCK,10037.2011903808
+594,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MOLL ROAD,Municipal Road,WERRIMULL,4666.03088198695
+595,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MOLONEY ROAD,Municipal Road,PATCHEWOLLOCK,10684.1428536205
+596,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MONAGHAN ROAD ,Municipal Road,OUYEN,647.796475776742
+597,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MONDALL ROAD,Municipal Road,IRAAK,1975.39332320766
+598,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MORKALLA NORTH ROAD ,Municipal Road,MERINGUR,13062.1681836848
+599,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MORKALLA SOUTH ROAD,Municipal Road,MERINGUR,58.0434948933969
+600,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MORRIS ROAD ,Municipal Road,KOORLONG,413.288253608772
+601,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MORRISH ROAD,Municipal Road,,39.1256626491091
+602,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MORRISH ROAD,Municipal Road,OUYEN,5359.09631176086
+603,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MORRISON PLAIN ROAD,Municipal Road,COWANGIE to TUTYE,3520.89111813445
+604,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MORRISON PLAIN ROAD,Municipal Road,MURRAYVILLE to COWANGIE,25319.7266367542
+605,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MORRISON ROAD,Municipal Road,BOINKA,15122.5121452751
+606,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MOSSOP STREET ,Municipal Road,UNDERBOOL,203.129866837177
+607,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MUIR ROAD,Municipal Road,CARWARP,1898.14806899792
+608,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MULCRA ROAD,Municipal Road,PANITYA to MURRAYVILLE,24530.2816040265
+609,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MUMS LANE,Municipal Road,MERINGUR,651.999097661214
+610,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MUNRO ROAD,Municipal Road,OUYEN,10252.0887189334
+611,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MUNRO ROAD,Municipal Road,WALPEUP,7239.08458676197
+612,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MUNRO ROAD ALT,Municipal Road,WALPEUP,573.834574663362
+613,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MURDOCH ROAD,Unknown,BOINKA,626.43877900573
+614,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MURPHYS LANE,Municipal Road,MURRAYVILLE,1000.15883827453
+615,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MURRAYVILLE-NHILL ROAD ,Municipal Road,MURRAYVILLE to BIG DESERT,4451.71956877875
+616,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,MURRAYVILLE NORTH ROAD ,Municipal Road,MURRAYVILLE,17279.7446135245
+617,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NAIRN LANEWAY,Municipal Road,OUYEN,139.04600036691
+618,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NEDS CORNER ROAD,Municipal Road,NEDS CORNER to MERINGUR,16670.2062792811
+619,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NESTOR ROAD,Municipal Road,WALPEUP,4890.67872525783
+620,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NEWMAN ROAD,Municipal Road,KULWIN to MITTYACK,6441.43199494395
+621,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NGALLO BUS ROUTE ROAD,Municipal Road,PANITYA,7145.64184232189
+622,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NGALLO NORTH ROAD,Municipal Road,CARINA,9232.28387148224
+623,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NGALLO ROAD,Municipal Road,PANITYA,7403.64476855707
+624,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NGALLO ROAD,Municipal Road,PANITYA to MURRAYVILLE,17321.7984852784
+625,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NGALLO SOUTH ROAD,Municipal Road,CARINA,17378.1699126108
+626,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NICKOLLS ROAD,Municipal Road,PANITYA,42.4678447414826
+627,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NO 6 BORE ROAD,Municipal Road,MURRAYVILLE,40787.8972435576
+628,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NORTH FIVE CHAIN ROAD,Municipal Road,PANITYA to COWANGIE,45281.4585478064
+629,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NORTH TORNEY ROAD,Municipal Road,PATCHEWOLLOCK,220.98209575501
+630,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NORTH WEST ANGLE ROAD,Municipal Road,CARWARP,16299.2920672149
+631,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NORTH WEST ROAD ,Municipal Road,OUYEN,10679.9716436465
+632,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NOWINGI LINE TRACK,Municipal Road,CARWARP,18688.6091582938
+633,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NOWINGI TRACK,Municipal Road,CARWARP,62.4622083531765
+634,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NOWINGI TRACK,Municipal Road,CARWARP to HATTAH,69.7746442035331
+635,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NULTY LANE,Municipal Road,CARWARP,3903.8384462248
+636,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NUNN ROAD,Municipal Road,MERINGUR,22765.1149982619
+637,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NUNN ROAD,Municipal Road,OUYEN,1347.15768757014
+638,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,NYANG SOUTH ROAD ,Municipal Road,TORRITA,10240.2438561949
+639,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OAKLEY LANE,Municipal Road,MURRAYVILLE,200.478687126595
+640,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OCALLAGHAN LANE,Municipal Road,OUYEN,5355.33448860542
+641,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OCONNELL ROAD,Municipal Road,MERINGUR,7507.64825087941
+642,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ODAY ROAD,Municipal Road,WARGAN to MERRINEE,9086.36420801596
+643,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ODEA LANE,Municipal Road,MURRAYVILLE,192.692215799563
+644,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD CALDER HIGHWAY,Municipal Road,HATTAH,1488.54090296199
+645,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD CALDER HIGHWAY ,Municipal Road,HATTAH,97.8369273267428
+646,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD CALDER HIGHWAY ,Municipal Road,OUYEN to HATTAH,22439.4392145914
+647,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD MAIL ROAD,Municipal Road,CULLULLERAINE to MERBEIN WEST,59818.8870601148
+648,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD MAIL ROAD,Municipal Road,LINDSAY POINT,3079.85845387921
+649,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD MAIL ROAD,Municipal Road,LINDSAY POINT to MURRAY-SUNSET,9574.16380873437
+650,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD MAIL ROAD,Municipal Road,NEDS CORNER,20239.8074816299
+651,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD MAIL ROAD ,Municipal Road,LINDSAY POINT,5778.44153523276
+652,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD MAIN ROAD,Municipal Road,COWANGIE to TUTYE,11128.335639446
+653,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD OUYEN ROAD,Municipal Road,OUYEN to PATCHEWOLLOCK,12313.5089404173
+654,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD OUYEN ROAD,Municipal Road,PATCHEWOLLOCK,2067.82905933192
+655,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD STOCK ROUTE ROAD,Municipal Road,TUTYE,1942.94938810013
+656,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD WALPEUP ROAD,Municipal Road,WALPEUP,83.6340472261637
+657,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OLD WALPEUP ROAD,Municipal Road,WALPEUP to PATCHEWOLLOCK,27160.1561327477
+658,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OSHANNESSY ROAD,Municipal Road,WALPEUP to OUYEN,9447.15138749579
+659,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OSTERS ROAD,Municipal Road,PANITYA,43.2578068088202
+660,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OUYEN-PATCHEWOLLOCK ROAD,Municipal Road,PATCHEWOLLOCK,108.923896400614
+661,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OVENDEN ROAD,Municipal Road,OUYEN,3028.22228268949
+662,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,OWEN ROAD,Municipal Road,MERINGUR,1212.3343953081
+663,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PAIGNIE ROAD,Municipal Road,WALPEUP,5557.42732111528
+664,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PALLARANG ROAD,Municipal Road,COWANGIE,25287.619762169
+665,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PANITYA NORTH ROAD ,Municipal Road,PANITYA,26918.1684697708
+666,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PANITYA SOUTH ROAD,Municipal Road,PANITYA,15389.7803011497
+667,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PARALLEL ROAD,Municipal Road,TORRITA to WALPEUP,14729.599758295
+668,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PARALLEL ROAD ,Municipal Road,WALPEUP to OUYEN,21465.9906534966
+669,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PATCHEWOLLOCK-UNDERBOOL ROAD,Municipal Road,UNDERBOOL to WALPEUP,25901.3033830751
+670,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PATCHING ROAD,Municipal Road,MITTYACK,9166.7041454161
+671,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PEARSON ROAD,Municipal Road,OUYEN,10778.6317741768
+672,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PENDLEBURY ROAD ,Municipal Road,WALPEUP to OUYEN,17494.6790159197
+673,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PENINSULAR TRAIL,Municipal Road,CULLULLERAINE,390.475210812334
+674,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PENINSULAR TRAIL ,Municipal Road,,5260.89592136119
+675,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PENNY ROAD,Municipal Road,OUYEN,5757.74788934255
+676,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PERKINS ROAD,Municipal Road,COWANGIE,4847.41653102348
+677,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PFEIFFER ROAD,Municipal Road,OUYEN,5127.48644238155
+678,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PICKERING ROAD,Municipal Road,KULWIN,3946.5476256212
+679,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PICKERING ROAD,Municipal Road,MERINGUR,6121.43066654655
+680,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PIER MILLAN ROAD,Municipal Road,TEMPY,2498.14664371879
+681,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PIER MILLAN ROAD,Municipal Road,TEMPY to PIER MILAN,90.0503704605514
+682,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PINE PLAINS ROAD,Municipal Road,BIG DESERT to PATCHEWOLLOCK,11012.203078127
+683,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PINE TANK ROAD,Municipal Road,MERINGUR,6446.071604107
+684,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PINK LAKES ROAD ,Municipal Road,LINGA to MURRAY-SUNSET,13956.5525379329
+685,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PIRLTA NORTH ROAD,Municipal Road,MERRINEE,12122.7030488387
+686,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PIRLTA ROAD,Municipal Road,MERRINEE,2762.38769272662
+687,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PIRLTA SOUTH ROAD,Municipal Road,MERRINEE,25840.5734905633
+688,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,POHLNER ROAD,Municipal Road,KULWIN,7585.90399582055
+689,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,POLE ROAD,Municipal Road,TORRITA,87.8663405654401
+690,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,POLE ROAD ,Municipal Road,TORRITA,6919.18868569943
+691,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,POOLE ROAD,Municipal Road,OUYEN,9385.69339263925
+692,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,POTTER ROAD,Municipal Road,OUYEN,7648.05355077658
+693,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,POWELL ROAD,Municipal Road,MITTYACK,4836.61275351498
+694,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PRANGE ROAD,Municipal Road,PIER MILAN to MITTYACK,9021.58779444366
+695,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PRATT ROAD,Municipal Road,MERRINEE,1293.09781775767
+696,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PRESTON ROAD,Municipal Road,MITTYACK,10920.1836078719
+697,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PRYSE LANE,Municipal Road,TORRITA,745.764308711632
+698,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PURDUE ROAD,Municipal Road,,1720.98937469154
+699,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PURDUE ROAD,Municipal Road,COWANGIE,13197.7688160545
+700,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,PURNYA ROAD,Municipal Road,LINGA,9047.37328865391
+701,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,RED RISE TRACK,Municipal Road,NEDS CORNER,5054.92190343752
+702,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,REED ROAD,Municipal Road,COLIGNAN,3707.24850103376
+703,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,REGENT DRIVE,Municipal Road,COLIGNAN,979.201746720063
+704,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,RENDALL ROAD,Municipal Road,LINGA,313.210087683632
+705,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,RESERVOIR ROAD,Municipal Road,UNDERBOOL,959.406242894229
+706,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,RICHARDSON ROAD,Municipal Road,PATCHEWOLLOCK,7975.74556645004
+707,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,RICHARDSON STREET ,Municipal Road,WALPEUP,401.314537003954
+708,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,RIFLE RANGE ROAD,Municipal Road,CARWARP,4492.43564194796
+709,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,RIVER ROAD,Municipal Road,HATTAH,75.0591620984589
+710,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,RIVER ROAD ,Municipal Road,HATTAH,13413.9378975435
+711,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ROBBINS LANE,Municipal Road,MERINGUR to WERRIMULL,7987.55173783319
+712,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ROBERTS ROAD,Municipal Road,PIER MILAN,1552.08966946681
+713,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ROBERTSON LANE,Municipal Road,CULLULLERAINE,3735.93122420054
+714,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ROBERTSONS TRACK,Municipal Road,CULLULLERAINE,7939.24175476348
+715,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ROBINSON ROAD,Municipal Road,IRAAK,394.150404028886
+716,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ROCKHOLE ROAD,Municipal Road,PANITYA,3704.96288252169
+717,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ROGERS ROAD,Municipal Road,MERRINEE,11190.2932848682
+718,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ROSS ROAD,Municipal Road,PANITYA,3850.6090055749
+719,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ROSS ROAD,Municipal Road,PATCHEWOLLOCK,4304.22089556011
+720,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ROWAN ROAD,Municipal Road,UNDERBOOL,5642.56879041004
+721,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ROWE ROAD,Municipal Road,MERRINEE,3797.85747017815
+722,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,ROWNACK ROAD,Municipal Road,OUYEN to MITTYACK,12484.1337122964
+723,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,RUCHEL ROAD,Municipal Road,MERINGUR,7876.84440089449
+724,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,RUSBRIDGE ROAD,Municipal Road,CARINA to MURRAYVILLE,10191.0187499237
+725,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,RYAN ROAD,Municipal Road,KULWIN,4546.60793549925
+726,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,RYAN ROAD,Municipal Road,MERRINEE,11129.9564423844
+727,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SALT BORE ROAD,Municipal Road,COWANGIE,9140.92919784871
+728,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SCASE ROAD ,Municipal Road,KOORLONG,86.3001036868017
+729,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SCHERGER LANE,Municipal Road,WERRIMULL,4764.77443155091
+730,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SCHILLING ROAD,Municipal Road,MERINGUR,7196.05715745217
+731,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SCHOOL ROAD,Municipal Road,MITTYACK,474.388962223477
+732,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SCHROEDERS ROAD,Municipal Road,MURRAYVILLE,310.675460129972
+733,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SCHULTZ ROAD,Municipal Road,KULWIN,7872.83837969061
+734,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SCOTT LANE,Municipal Road,CARWARP,6846.37132283122
+735,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SCOTT ROAD,Municipal Road,,153.670038745382
+736,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SCOTT ROAD,Municipal Road,KULWIN,6080.96501705576
+737,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SCOTT ROAD,Municipal Road,WALPEUP to OUYEN,18690.7725945275
+738,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SELKRIG LANE,Municipal Road,MURRAYVILLE,82.0290840567974
+739,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SHADDOCK ROAD,Municipal Road,WALPEUP to OUYEN,19327.3144202867
+740,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SHARROCK STREET ,Municipal Road,MURRAYVILLE,160.71086239462
+741,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SHEAN ROAD,Municipal Road,TEMPY,6885.92395652512
+742,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SHEPHERD LANEWAY,Municipal Road,OUYEN,395.281162222233
+743,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SHIMMEN LANEWAY,Municipal Road,OUYEN,103.05138404703
+744,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SHORT ROAD,Municipal Road,HATTAH,3429.99665304554
+745,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SIMMONS ROAD,Municipal Road,MERRINEE,12214.540470695
+746,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SIMON ROAD,Municipal Road,CARINA to PANITYA,8511.32511274203
+747,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SIMPSON LANE,Municipal Road,WERRIMULL,3404.56343349464
+748,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SMITH LANEWAY,Municipal Road,OUYEN,131.367012401132
+749,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SMITH ROAD,Municipal Road,KULWIN,9450.90560346413
+750,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SOUTH FIVE CHAIN ROAD,Municipal Road,PANITYA,3422.7544585451
+751,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SOUTH FIVE CHAIN ROAD,Municipal Road,PANITYA to MURRAYVILLE,21231.9416483856
+752,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SOUTH ROAD,Municipal Road,COWANGIE to BOINKA,19813.4218346503
+753,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SOUTH ROAD,Municipal Road,MURRAYVILLE to COWANGIE,24636.0103550639
+754,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SOUTH ROAD ,Municipal Road,TUTYE,289.064582778747
+755,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SOUTH STREET,Municipal Road,UNDERBOOL,731.64451959989
+756,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SOUTH WEST ANGLE ROAD,Municipal Road,CARWARP,7545.84663698339
+757,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,STANBROOK ROAD,Municipal Road,WERRIMULL,10100.9094828686
+758,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,STEELE ROAD,Municipal Road,OUYEN,16669.5763162895
+759,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,STEVE COLLETT DRIVE,Municipal Road,NANGILOC,1726.06791941356
+760,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,STOCK ROUTE ROAD,Municipal Road,,14857.4290098464
+761,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,STOCK ROUTE ROAD,Municipal Road,TUTYE to UNDERBOOL,38800.7268128321
+762,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,STOCK ROUTE ROAD,Municipal Road,UNDERBOOL to TORRITA,5853.06864947298
+763,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,STONE ROAD,Municipal Road,TORRITA,9421.47729150858
+764,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SULLIVAN ROAD,Municipal Road,PATCHEWOLLOCK,5668.28000090197
+765,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SUMMERHAYES ROAD,Municipal Road,MERINGUR,7853.90596958142
+766,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SUMMERTON ROAD,Municipal Road,PANITYA,47.6445785011038
+767,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SUNSET ROAD,Municipal Road,COWANGIE,24365.7790066572
+768,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SUTHERLAND ROAD,Municipal Road,WERRIMULL,3546.96090739324
+769,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SWAMP ROAD,Municipal Road,RED CLIFFS,1930.42730165152
+770,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,SYMES LANE,Municipal Road,MERRINEE,1618.45224389714
+771,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TAMPLING ROAD,Municipal Road,KULWIN,4249.84330956116
+772,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,THOMAS ROAD,Municipal Road,PANITYA,8103.39102960667
+773,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,THOMSON ROAD,Municipal Road,PATCHEWOLLOCK,4798.15499489058
+774,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,THURLOW LANE,Municipal Road,CARWARP,2017.23264003215
+775,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,THURLOW ROAD,Municipal Road,MURRAYVILLE,855.010174824616
+776,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TIDD ROAD,Municipal Road,KULWIN,4057.51363223234
+777,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TIMBEROO EAST ROAD,Municipal Road,OUYEN,9743.32546401227
+778,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TONKIN LANEWAY,Municipal Road,OUYEN,172.54615811476
+779,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TORNEY ROAD,Municipal Road,TEMPY,12324.2843463398
+780,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TOWER STREET,Municipal Road,WERRIMULL,165.865570138811
+781,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TOWK ROAD,Municipal Road,WALPEUP,2730.46681839438
+782,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TRANSECT TRACK,Municipal Road,MERINGUR,1531.2394322015
+783,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TREVISO WAY ,Municipal Road,CARWARP,4946.66143514984
+784,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TRIGG ROAD,Municipal Road,MITTYACK,6321.06986675934
+785,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TRIGGS ROAD,Municipal Road,OUYEN,229.34959475297
+786,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TRIMBLE ROAD,Municipal Road,OUYEN,8876.18316800746
+787,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TRINITA ROAD,Municipal Road,MURRAY-SUNSET to OUYEN,6607.71741084519
+788,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TULLY ROAD ,Municipal Road,MURRAYVILLE,209.964134097927
+789,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TUNKIN ROAD,Municipal Road,MERRINEE,3994.26570391151
+790,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TUNKIN ROAD,Municipal Road,WERRIMULL,3798.55609541594
+791,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TUNKIN ROAD ,Municipal Road,MERRINEE,3654.75713518055
+792,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TUTYE SOUTH ROAD,Municipal Road,TUTYE,10719.0816500506
+793,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TWELVE MILE PATCH TRACK,Municipal Road,,12390.8415605928
+794,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TWENTY FOURTH STREET,Municipal Road,KOORLONG,62.799303089995
+795,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TWENTY FOURTH STREET ,Municipal Road,,1542.25910983866
+796,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TWENTY SECOND STREET ,Municipal Road,KOORLONG,119.023322519273
+797,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TYACK ROAD,Municipal Road,MERRINEE,11091.6103033203
+798,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TYALLA ROAD,Municipal Road,COWANGIE to TUTYE,11793.1830438153
+799,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,TYENNA ROAD,Municipal Road,TEMPY,4223.89343402613
+800,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,UNDERBOOL-PATCHEWOLLOCK ROAD ,Municipal Road,UNDERBOOL,2992.47469308813
+801,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,UNDERBOOL SOUTH ROAD ,Municipal Road,UNDERBOOL,13104.9233440298
+802,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,UNDERBOOL TRACK,Municipal Road,MERRINEE to MURRAY-SUNSET,70.358507707454
+803,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,UNDERBOOL TRACK,Municipal Road,MURRAY-SUNSET to COWANGIE,1081.0991092735
+804,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,UPTON ROAD,Municipal Road,MITTYACK to GERAHMIN,6737.15375266458
+805,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,VALENCIA GROVE ,Municipal Road,COLIGNAN,741.030638070731
+806,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,VALLANCE ROAD,Municipal Road,OUYEN,2417.46092957342
+807,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,VALLANCE ROAD,Municipal Road,TEMPY to PIER MILAN,16373.6381259049
+808,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,VINE LANE,Municipal Road,OUYEN,9783.51355937897
+809,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WAKEFIELD ROAD,Municipal Road,WALPEUP to OUYEN,18706.1261204342
+810,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WALKER ROAD,Municipal Road,MURRAY-SUNSET to WALPEUP,6868.96914482665
+811,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WALKER ROAD,Municipal Road,WALPEUP,9334.03723829805
+812,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WALKER ROAD,Municipal Road,WARGAN,9027.85430298675
+813,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WALKER ROAD,Municipal Road,WERRIMULL,7295.14059919215
+814,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WALL ROAD,Municipal Road,PANITYA,6239.13604790389
+815,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WALPEUP LAKE ROAD,Municipal Road,OUYEN,9593.43172078127
+816,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WALSH LANEWAY ,Municipal Road,OUYEN,375.717543219829
+817,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WAREHAM ROAD,Municipal Road,MITTYACK,3876.2768828541
+818,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WARGAN ROAD,Municipal Road,WARGAN,7592.478580856
+819,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WATSON ROAD,Municipal Road,MURRAYVILLE,2233.91563373662
+820,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WATTS LANE,Municipal Road,COLIGNAN,2135.05481907849
+821,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WEATHERHEAD ROAD,Municipal Road,MERINGUR,3498.71870123784
+822,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WEIR ROAD,Municipal Road,OUYEN,11564.1131916927
+823,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WEIR STREET,Municipal Road,OUYEN,529.370151139782
+824,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WELSHMANS PLAIN ROAD,Municipal Road,UNDERBOOL,4451.37229045675
+825,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WEST SETTLEMENT ROAD,Municipal Road,MERINGUR,14597.1465951294
+826,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WEST SETTLEMENT ROAD,Municipal Road,MURRAY-SUNSET,20883.4956825746
+827,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WESTH STREET ,Municipal Road,UNDERBOOL,203.225291699054
+828,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WESTON ROAD,Municipal Road,OUYEN,5846.5680578951
+829,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WHEELER ROAD,Municipal Road,MERRINEE,8390.76507974564
+830,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WHITE ROAD,Municipal Road,MITTYACK,126.809387268337
+831,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WHITE ROAD,Municipal Road,MITTYACK to GERAHMIN,6680.95215374895
+832,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WHITECROSS ROAD,Municipal Road,MITTYACK,4751.24878713705
+833,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WHITTEMORE ROAD,Municipal Road,KULWIN,6255.19833205613
+834,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WIGHTS LANE,Municipal Road,MERINGUR,7787.98068037706
+835,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WILGA ROAD,Municipal Road,RED CLIFFS,3094.30173542831
+836,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WILGA ROAD ,Municipal Road,CARDROSS to RED CLIFFS,6417.34760191796
+837,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WILLA WEST,Municipal Road,PATCHEWOLLOCK,5375.67549319625
+838,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WILLERSDORF LANE,Municipal Road,MURRAYVILLE,103.14433517788
+839,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WILLIAMS ROAD,Municipal Road,PATCHEWOLLOCK,3731.99590976388
+840,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WILLSMORE ROAD ,Municipal Road,LINGA,16326.4036137693
+841,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WILSON LANE,Municipal Road,MURRAYVILLE,164.828783057925
+842,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WILTSHIRE LANE,Municipal Road,MURRAYVILLE,305.664712150337
+843,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WIRRENGREN PLAINS TRACK,Municipal Road,BIG DESERT,7331.46330020502
+844,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WISNESKE ROAD,Municipal Road,LINGA,3483.26156303369
+845,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WOOD ROAD,Municipal Road,KOORLONG,96.1677033047656
+846,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WOOD ROAD,Municipal Road,KOORLONG to CARDROSS,11558.8781192882
+847,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WOOD ROAD,Municipal Road,OUYEN,743.00298360629
+848,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WOODALL LANEWAY,Municipal Road,OUYEN,102.466903882254
+849,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WOODS ROAD,Municipal Road,MERRINEE,11429.6866494413
+850,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WOOL TRACK,Municipal Road,BIG DESERT,4554.33525561183
+851,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WOROOA ROAD,Municipal Road,BOINKA,56.8029581619209
+852,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WOROOA ROAD,Municipal Road,BOINKA to LINGA,10314.2464759589
+853,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WOROOA ROAD ,Municipal Road,LINGA,4044.10920688101
+854,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WYATT ROAD,Municipal Road,MURRAYVILLE,11957.6792615133
+855,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,WYMLET ROAD,Municipal Road,OUYEN,1957.46505281218
+856,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,YARRARA SOUTH ROAD,Municipal Road,MERINGUR,15225.1027463701
+857,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,YARRARA SOUTH ROAD,Municipal Road,MERINGUR to WERRIMULL,1240.482002863
+858,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,YATES ROAD,Municipal Road,WERRIMULL,11345.2594225906
+859,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,YATPOOL WEST ROAD ,Municipal Road,CARWARP,12666.2699543083
+860,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,YELLUMJIP CONNECTION,Municipal Road,,135.177507397281
+861,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,YELLUMJIP CONNECTION,Municipal Road,OUYEN,9732.8136521678
+862,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,YETMAN LANE,Municipal Road,OUYEN,18523.1481056068
+863,Conditionally Approved,Conditionally approved - Council road accessible in dry weather only,MILDURA,YOUNG ROAD,Municipal Road,KULWIN,7060.37683819194
+864,Restricted,Restricted - Council road mass restricted for this vehicle,DELWP,WERRIMULL SOUTH ROAD,Municipal Road,WERRIMULL,326.095602001064
+865,Restricted,Restricted - Council road mass restricted for this vehicle,DELWP,WERRIMULL SOUTH ROAD ,Municipal Road,WERRIMULL,173.107235601469
+866,Restricted,Restricted - Council road mass restricted for this vehicle,MILDURA,CARWARP ROAD ,Municipal Road,MERINGUR to WERRIMULL,44145.2402265062
+867,Restricted,Restricted - Council road mass restricted for this vehicle,MILDURA,MERINGUR SOUTH ROAD ,Municipal Road,MERINGUR,10116.8812905032
+868,Restricted,Restricted - Council road mass restricted for this vehicle,MILDURA,THURLA ROAD,Municipal Road,KOORLONG to CARWARP,4861.57264763429
+869,Restricted,Restricted - Council road mass restricted for this vehicle,MILDURA,WERRIMULL SOUTH ROAD,Municipal Road,WERRIMULL,198.476634021668
+870,Restricted,Restricted - Council road mass restricted for this vehicle,MILDURA,WERRIMULL SOUTH ROAD ,Municipal Road,WERRIMULL,11002.4872383399
+871,Restricted,Restricted - Council road mass restricted for this vehicle,MILDURA,YARRARA NORTH ROAD,Municipal Road,MERINGUR,17668.1173745199
+872,Restricted,Restricted - Council road mass restricted for this vehicle,MILDURA,YARRARA NORTH ROAD ,Municipal Road,MERINGUR,102.510665175059
+873,Restricted,Restricted - Council road mass restricted for this vehicle,MILDURA,YATPOOL WEST ROAD ,Municipal Road,CARWARP,5207.34849749217
+874,Restricted,Restricted - Local road up to rail crossing has insufficient stacking distance for vehicles of this length. Seek alternate route,MILDURA,CARWARP ROAD ,Municipal Road,CARWARP,105.052128418878
+875,Restricted,Restricted - Local road up to rail crossing has insufficient stacking distance for vehicles of this length. Seek alternate route,MILDURA,NORTH WEST ANGLE ROAD,Municipal Road,CARWARP,137.394007471256
